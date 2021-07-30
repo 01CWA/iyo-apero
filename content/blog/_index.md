@@ -1,9 +1,8 @@
 ---
-title: A Blog That Works
+title: Notes
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
+  This is a place for organized and random thoughts.
+author: "Carol Addassi"
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: true
@@ -23,7 +22,7 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "The R Markdown Team @RStudio"
+  author: "Carol Addassi"
   show_author_byline: true
   show_post_date: true
   show_disqus_comments: false # see disqusShortname in site config
