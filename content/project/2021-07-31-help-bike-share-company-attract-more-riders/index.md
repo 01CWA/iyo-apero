@@ -1,7 +1,7 @@
 ---
 title: "Increase Cyclistic's bike-share ridership"
 subtitle: "Google Data Analytics Capstone"
-excerpt: " "
+excerpt: "  "
 date: 2021-08-12
 author: "Carol Addassi"
 draft: false

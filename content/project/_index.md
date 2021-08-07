@@ -1,6 +1,6 @@
 ---
 title: Project Portfolio
-description: "   "
+description: " "
 author: " "
 show_post_thumbnail: true
 show_author_byline: false
